@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'قاعة السعادة | تجربة زفاف ملكية في الإسكندرية',
     description: 'نصنع لك ذكريات لا ترحل في أحدث قاعات العامرية. تجهيزات فندقية وسعات ضخمة تناسب أحلامك.',
-    url: 'https://alsaada-hall.com', // استبدله برابط موقعك الحقيقي
+    url: 'https://ga3a.vercel.app/', // استبدله برابط موقعك الحقيقي
     siteName: 'قاعة السعادة - Happiness Hall',
     images: [
       {
